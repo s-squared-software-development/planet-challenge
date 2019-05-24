@@ -23,27 +23,27 @@ The above graph represents an interstellar transport system used by Earth’s in
 
 Great... so what do you need to do?
 
-#### PERSIST THE GRAPH INTO AN IN-MEMORY DATABASE
+#### 1) PERSIST THE GRAPH INTO AN IN-MEMORY DATABASE
 
 Take the data set provided and create the table structure(s) necessary to hold the data. 
 * Use an in-memory DB (H2, Derby DB…etc)
 * Use an ORM (Hibernate)
 
-#### READ THE FILE AND IMPORT IT INTO THE DB
+#### 2) READ THE FILE AND IMPORT IT INTO THE DB
 
 #### EXPOSE THE DATABASE USING A RESTFUL WEB SERVICE
 
 Generate a restful service and expose CRUD operations to manage the database. 
 
-#### IMPLEMENT THE ALGORITHM
+#### 3) IMPLEMENT THE ALGORITHM
 
 Construct a suitable object model to describe the routes. Create an algorithm that will determine the shortest path between Earth and any destination provided. 
 
-#### EXPOSE THE ALGORITHM USING A RESTFUL WEB SERVICE
+#### 4) EXPOSE THE ALGORITHM USING A RESTFUL WEB SERVICE
 
 Expose the RouteRequest document and return a RouteResponse document with the hops 
 
-#### CALL YOUR API
+#### 5) CALL YOUR API
 
 Create a simple example of how you called your API and returns the results 
 
