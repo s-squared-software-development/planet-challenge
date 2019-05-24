@@ -47,8 +47,7 @@ Expose the RouteRequest document and return a RouteResponse document with the ho
 
 Create a simple example of how you called your API and returns the results 
 
-#### BONUS POINTS
-If time allows and you want to show off... implement a Cucumber feature file to demonstrate your API.
+> BONUS POINTS: If time allows and you want to show off... implement a Cucumber feature file to demonstrate your API.
 
 ### SUPPORTING DATA	 
 All the supporting data can be found within the project under:
