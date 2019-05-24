@@ -21,6 +21,8 @@ The above graph represents an interstellar transport system used by Earth’s in
 
 ![Planet Layout](http://s-squared.co.za/assignments/planets.png)
 
+Great... so what do you need to do?
+
 > PERSIST THE GRAPH INTO AN IN-MEMORY DATABASE
 
 Take the data set provided and create the table structure(s) necessary to hold the data. 
