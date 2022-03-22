@@ -98,7 +98,7 @@ Your project submission will be evaluated based on the following:
 ### ADDITIONAL INFORMATION 
 The requirements are purposely open-ended. Please feel free to make assumptions with the proviso that you can justify your decisions.
 
-> NOTE: Email your source code ONLY (no .class files) in a zip file [YOUR NAME]_[YYYYMMDD].zip to oliver@s-squared.co.za
+> NOTE: Email your source code ONLY (no .class files) in a zip file [YOUR NAME]_[YYYYMMDD].zip to oliver@ssquared.dev
 
 # Good luck! 
 
