@@ -3,7 +3,7 @@
 ## PLANET ASSIGNMENT CHALLENGE
 
 ### INSTRUCTIONS
-The purpose of this assignment is to allow you to demonstrate your understanding of OO principles and techniques (think re-usability, maintainability, flexibility etc). Creativity and elegance is also valued. You should not focus on producing performance-optimized code or ‘as-little-code-as-possible’ to the detriment of readability and maintainability. 
+This assignment aims to demonstrate your understanding of OO principles and techniques (think re-usability, maintainability, flexibility etc). Creativity and elegance is also valued. You should not focus on producing performance-optimized code or ‘as-little-code-as-possible’ to the detriment of readability and maintainability. 
 The assignment is designed to be completed within 2 to 4 hours. You may however choose to expend more time, at your own discretion. You are encouraged to add documentation (think todo’s and fixme’s) to indicate portions of the design or code that you would do differently given more time.
 Most importantly, your code must work. Code that does not compile or produce output will not be evaluated. 
  
@@ -17,9 +17,9 @@ The following technologies must be used:
 ### SCENARIO
 
 ### YOUR MISSION
-The above graph represents an interstellar transport system used by Earth’s inhabitants in the year 2145. They require you to build a system that will allow them to find the shortest path from point “A”, being Earth, through the galaxy to any of the planets represented by the other nodes. You are provided with a list of node names and their respective distances between their linked planets.  In addition, you need to ensure that the system will work from any source to destination coordinates specified. 
+The above graph represents an interstellar transport system used by Earth’s inhabitants in the year 2145. They require you to build a system that will allow them to find the shortest path from point “A”, being Earth, through the galaxy to any of the planets represented by the other nodes. You are provided with a list of node names and their respective distances between their linked planets.  In addition, you need to ensure that the system will work from any source to the destination coordinates specified. 
 
-![Planet Layout](http://s-squared.co.za/assignments/planets.png)
+![Planet Layout](https://ssquared.dev/assignments/planets.png)
 
 Great... so what do you need to do?
 
@@ -45,7 +45,7 @@ Expose the RouteRequest document and return a RouteResponse document with the ho
 
 #### 5) CALL YOUR API
 
-Create a simple example of how you called your API and returns the results 
+Create a simple example of how you called your API and returned the results 
 
 > BONUS POINTS: If time allows and you want to show off... implement a Cucumber feature file to demonstrate your API.
 
@@ -55,7 +55,7 @@ All the supporting data can be found within the project under:
 planet\src\main\resources\data
 ```
 
-Additionally below is some useful metrics to help you:
+Additionally, below is some useful metrics to help you:
 
 Light Year Constant 
 ```
@@ -78,27 +78,27 @@ Passenger Travel Speed
 ### DELIVERABLES 
 #### PACKAGE AND SUBMISSION 
 Your project submission must consist of these components: 
-1.	Source code with a maven build script
+1.	Source code with a Maven build script
 2.	The project will be built and executed onsite.
-3.	A design.txt or design.md file that contains any assumptions or core design considerations that will position the assignment submission. Feel free to add suggestions on how the system could be improved in subsequence releases.
+3.	A design.txt or design.md file contains any assumptions or core design considerations that will position the assignment submission. Feel free to add suggestions on how the system could be improved in subsequence releases.
 4.	Include a set of unit tests that verify the tasks defined with a minimum code coverage of at least 80%. 
 5.	These elements are the be zipped into a single file with the following file name:
  
 ### MINIMUM SUBMISSION CRITERIA 
-Your program must compile, run and return a result. 
+Your program must compile, run, and return a result. 
 #### MARKING CRITERIA 
 Your project submission will be evaluated based on the following: 
 - [ ] Does your program work?
 - [ ] Comment style and formatting 
-- [ ] Code style, formatting and adherence to standards and conventions 
+- [ ] Code style, formatting, and adherence to standards and conventions 
 - [ ] Organisation and layout of classes 
 - [ ] Design choices and use of OO principles and methodologies
-- [ ] Unit tests, structure of tests and code coverage (negative and positive scenarios)
+- [ ] Unit tests, structure of tests, and code coverage (negative and positive scenarios)
 
 ### ADDITIONAL INFORMATION 
-The requirements are purposely open-ended. Please feel free to make assumptions with the proviso that you can justify your decisions.
+The requirements are purposely open-ended. Please don't hesitate to make assumptions with the proviso that you can explain your decisions.
 
-> NOTE: Email your source code ONLY (no .class files) in a zip file [YOUR NAME]_[YYYYMMDD].zip to oliver@ssquared.dev
+> NOTE: Email your source code ONLY (no .class files) in a zip file [YOUR NAME]_[YYYYMMDD].zip to genevieve@ssquared.dev
 
 # Good luck! 
 
